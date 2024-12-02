@@ -1,2 +1,25 @@
 # HTB_retired_writeups
-Hack The Boxのretired machineのwirteup
+Wirteups of Hack The Box's retired machines
+
+# Windows
+## easy
+[Windows_easy](Windows_easy)
+* []()
+
+## medium
+
+## hard
+
+## insane
+
+
+# Linux
+## easy
+[Linux_easy](Linux_easy)
+* []()
+
+## medium
+
+## hard
+
+## insane
