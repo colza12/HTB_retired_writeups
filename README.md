@@ -3,7 +3,7 @@ Wirteups of Hack The Box's retired machines
 
 # Windows
 ## easy
-[Windows_easy](Windows_easy)
+[Windows easy](Windows_easy)
 * []()
 
 ## medium
