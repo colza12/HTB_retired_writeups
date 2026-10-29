@@ -61,8 +61,6 @@ fig_2d.update_layout(
 fig_2d.write_html("qr_projection.html")
 print("save 2d image qr_projection.html")
 ```
-![ql](qr_projection.html)
-
 Read the data using QR code reader.
 
 Got the flag!
